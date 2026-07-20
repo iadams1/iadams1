@@ -121,7 +121,7 @@ A productivity application focused on helping users organize and manage tasks th
 ## 📄 Resume & Project Portfolio
 
 [Download My Resume](./Isaiah_Adams_Resume.pdf)   
-[Download My Project Portfolio](./ProjectResumePortfolio .pdf)
+[Download My Project Portfolio](./ProjectResumePortfolio.pdf)
 
 ---
 
