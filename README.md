@@ -2,9 +2,7 @@
 
 # Hi, I'm Isaiah Adams 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=iadams1&color=blue)
-
-## Computer Science Graduate | Software Developer | Application Analyst
+## Computer Science Graduate | Software Developer | Full-Stack Developer | Application Analyst 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -13,6 +11,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=iadams1&color=blue)
 
 </div>
 
@@ -60,19 +60,21 @@ A student-focused financial technology application designed to improve financial
 
 ---
 
-### 🎓 EventLink - Campus Event Management Platform
+### 🗄️ Honors School Management Database System
 
-A campus event management application designed to improve student engagement by connecting users with university events.
+A relational database management system designed to organize and manage honors student information, academic records, and program-related data.
 
 **My Contributions:**
-- Developed application functionality using object-oriented programming principles.
-- Designed database-driven features.
-- Implemented user-focused application workflows.
+- Designed and implemented a structured relational database schema.
+- Created database relationships using primary and foreign keys.
+- Developed SQL queries to retrieve, analyze, and manage data efficiently.
+- Applied normalization principles to improve data integrity and organization.
+- Collaborated on requirements analysis and database functionality.
 
 **Technologies:**
-- Python
-- Django
-- HTML/CSS
+- MySQL
+- SQL
+- Relational Database Design
 - Database Management
 
 ---
