@@ -127,8 +127,12 @@ A productivity application focused on helping users organize and manage tasks th
 
 ## 📊 GitHub Activity
 
-![Isaiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iadams1&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iadams1&layout=compact)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=iadams1&show_icons=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iadams1&layout=compact)
+
+</div>
 
 ---
 
