@@ -67,7 +67,7 @@ A student-focused financial technology application designed to improve financial
 
 ### 🗄️ [Honors School Management Database System](https://github.com/iadams1/School-Management)
 
-A relational database management system designed to organize and manage honors student information, academic records, and program-related data.
+A relational database management system designed to manage multiple schools and campuses, including student records, faculty, courses, enrollment, and academic operations.
 
 **My Contributions:**
 - Designed and implemented a structured relational database schema.
