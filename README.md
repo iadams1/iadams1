@@ -88,9 +88,16 @@ A relational database management system designed to manage multiple schools and 
 
 A productivity application focused on helping users organize and manage tasks through an intuitive interface.
 
+- Developed the frontend using React and JavaScript to create a responsive and user-friendly interface.
+- Implemented CRUD functionality, allowing users to create, view, update, and delete tasks.
+- Integrated Appwrite as the backend service for user authentication and database management.
+- Designed reusable React components and managed application state to improve maintainability.
+
 **Technologies:**
-- React
+- React Native
 - JavaScript
+- TypeScript (basic)
+- JSON
 - Appwrite
 
 ---
